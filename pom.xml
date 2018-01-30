@@ -17,7 +17,6 @@
 		<mule.tools.version>1.2</mule.tools.version>
 		<derby.version>10.12.1.1</derby.version>
 		<uid>r_denney_uk_jan</uid>
-		<pwd>Password123</pwd>
 	</properties>
 
 	<build>
